@@ -1,0 +1,1 @@
+module.exports.RESPONSE_CODES = require("./response_codes");
